@@ -8,7 +8,7 @@ SPA-портфолио DevOps Engineer / SRE, построенное на Vite +
 
 ```bash
 # 1. Клонировать репозиторий
-git clone https://github.com/itSpecialistMike/sre-portfolio-template && cd sre-portfolio-template
+git clone https://github.com/itSpecialistMike/sre-portfolio-template.git && cd sre-portfolio-template
 
 # 2. Установить зависимости
 npm install
