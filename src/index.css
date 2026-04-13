@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+    .material-symbols-outlined {
+        font-variation-settings: 'FILL' 0, 'wght' 400, 'GRAD' 0, 'opsz' 24;
+    }
+}
+
+@layer utilities {
+    .tonal-transition {
+        background: linear-gradient(to bottom, transparent, rgba(230, 238, 255, 0.3));
+    }
+}
